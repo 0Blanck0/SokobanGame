@@ -1,0 +1,87 @@
+# depslib dependency file v1.0
+1523288070 source:c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1523263507 source:c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\editeur.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"editeur.h"
+	"fichiers.h"
+
+1523262869 source:c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"fichiers.h"
+
+1523288028 source:c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1522714831 source:c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\niveaux.lvl.c
+
+1523286282 c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\constantes.h
+
+1522787960 c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\jeu.h
+
+1522789588 c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\editeur.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1523281349 c:\users\pc-ecole\desktop\prog\c\game compet\sokoban game\fichiers.h
+
+1523263508 source:e:\programmation\c\game compet\sokoban game\editeur.c
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"editeur.h"
+	"fichiers.h"
+
+1523286284 e:\programmation\c\game compet\sokoban game\constantes.h
+
+1522789590 e:\programmation\c\game compet\sokoban game\editeur.h
+	<stdlib.h>
+	<stdio.h>
+	<SDL/SDL.h>
+
+1523281350 e:\programmation\c\game compet\sokoban game\fichiers.h
+
+1523262870 source:e:\programmation\c\game compet\sokoban game\fichiers.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"fichiers.h"
+
+1523288030 source:e:\programmation\c\game compet\sokoban game\jeu.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
+1522787962 e:\programmation\c\game compet\sokoban game\jeu.h
+
+1523288072 source:e:\programmation\c\game compet\sokoban game\main.c
+	<stdio.h>
+	<stdlib.h>
+	<SDL/SDL.h>
+	"constantes.h"
+	"jeu.h"
+	"editeur.h"
+
