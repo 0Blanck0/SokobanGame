@@ -3,3 +3,4 @@ Session 1 perdu/Abandonner // temps jouer 5.749000
 Session 2 perdu/Abandonner // temps jouer 22.729000
 Votre Score a la Session 3 était de 89.725000 seconde
 Votre Score a la Session 4 était de 41.505000 seconde
+Votre Score a la Session 5 était de 30.337000 seconde
