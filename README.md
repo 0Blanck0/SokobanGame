@@ -1,8 +1,54 @@
-# SokobanGame-Projet-C
+# SokobanGame
 
-Ceci est un jeu du type Sokoban créer en 2019 dans le cadre d'une initiation au C avec le site Openclassroom (https://openclassrooms.com/fr/courses/19980-apprenez-a-programmer-en-c). Dans ce jeu de puzzle le but est de placer toutes les caisses sur tous les points verts et ce dans un temps imparti. 
-Noté qu'un fichier de score est présent après chaque partie dans les fichiers du jeu.Un éditeur de niveau est également présent si vous souhaitez réaliser vos propres niveaux (un seul niveau sera stocké dans le fichier de niveau du jeu).
+## Description
+SokobanGame is a C-language implementation of the famous Sokoban puzzle game. The player must move crates to designated spots while following specific movement rules. This project also includes a level editor for creating and customizing challenges.
 
-Remarque: la touche "R" du clavier devrait normalement relancer la partie depuis le début mais un bug est présent à ce niveau ce qui fait généralement crash le jeu.
+## Features
+- Complete game with multiple predefined levels
+- Saved score system
+- Built-in level editor
+- Simple and intuitive console-based interface
 
-Pour en apprendre plus sur le Sokoban: https://fr.wikipedia.org/wiki/Sokoban
+## Installation
+### Prerequisites
+- A C compiler (GCC, Clang, MSVC, etc.)
+- A compatible operating system (Windows, Linux, macOS)
+
+### Compilation
+Clone the repository and compile the project using the following command:
+
+```sh
+ git clone https://github.com/0Blanck0/SokobanGame.git
+ cd SokobanGame
+ gcc -o sokoban main.c sokoban.c -Wall -Wextra
+```
+
+### Execution
+Run the game with the following command:
+
+```sh
+ ./sokoban
+```
+
+## Usage
+- **Arrow keys**: Move the player
+- **R**: Restart the game (Warning: a known bug may cause a crash)
+- **Level Editor**: Create and modify custom levels
+
+## Known Bugs
+- The **R** (Restart) key may cause the game to crash
+
+## Contributing
+Contributions are welcome! To propose improvements or report bugs:
+1. Fork the repository
+2. Create a branch (e.g., "feature/improvement")
+3. Make your changes
+4. Submit a pull request
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Resources
+- [Wikipedia - Sokoban](https://en.wikipedia.org/wiki/Sokoban)
+
+
